@@ -3,7 +3,7 @@ CREATE TABLE bears (
     name TEXT,
     age INTEGER,
     gender TEXT,
-    colot TEXT,
+    color TEXT,
     temperament TEXT,
     alive INTEGER
 );
