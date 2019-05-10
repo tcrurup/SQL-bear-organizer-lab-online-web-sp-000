@@ -6,7 +6,5 @@ CREATE TABLE bears (
     gender TEXT,
     colot TEXT,
     temperament TEXT,
-    alive BOOL
-
-
+    alive INTEGER
 );
